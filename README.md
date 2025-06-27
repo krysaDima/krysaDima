@@ -1,85 +1,65 @@
-<h1 align="center">👋 Привет, я Дмитрий</h1>
-<h3 align="center">🚀 Backend Java-разработчик | Spring Boot | REST API</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F7AA&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World%22);Backend+Java+Developer;Spring+Boot+%7C+Hibernate;REST+API+%7C+Docker;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="dimaromanenko" />
-</p>
-
----
-
-### 🛠 Мой технический стек
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,git,github,gitlab,docker,nginx,linux,idea&perline=6" />
-</p>
-
 <div align="center">
-  <details>
-  <summary>📌 Подробнее о стеке</summary>
-  
-  - **Языки**: Java 11+ (Collections, Stream API)
-  - **Фреймворки**: Spring Boot, Hibernate
-  - **Базы данных**: PostgreSQL, MySQL, JPA, JDBC
-  - **Инструменты**: Maven/Gradle, Git, GitHub/GitLab
-  - **DevOps**: Docker, Nginx, Linux (терминал)
-  - **Архитектура**: REST API
-  </details>
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
----
+###
 
-### 📊 Моя статистика
+<h1 align="center">Привет 👋 Я Дмитрий, Backend Java-разработчик</h1>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=merko"/>
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=merko" alt="dimaromanenko" />
-</p>
-
----
-
-### 🚀 Мои проекты
-
-<!-- Место для ваших будущих проектов -->
-<p align="center">
-  🔜 Скоро здесь появятся интересные проекты!
-</p>
-
----
-
-### 📫 Контакты
-
-<p align="center">
-  <a href="https://t.me/dimaromanenko01001" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=telegram" height="40" width="40" alt="Telegram" />
+<div align="center">
+  <a href="https://t.me/dimaromanenko01001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="mailto:krysa.dima@mail.ru">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Email" />
+  <a href="https://vk.com/id120660469" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white" height="25" alt="VK logo"  />
   </a>
+</div>
+
+###
+
+<h3>👨‍💻 Обо мне</h3>
+
+<p>
+Backend-разработчик с фокусом на Java-экосистему. Специализируюсь на создании эффективных серверных решений с использованием современных технологий. Люблю чистый код, оптимизацию и сложные архитектурные задачи.
 </p>
 
----
+###
 
-### ⚡ Интересный факт
+<h3>🛠 Мой стек</h3>
 
-```java
-public class AboutMe {
-    public static void main(String[] args) {
-        while(true) {
-            System.out.println("Кодинг - это не просто работа,");
-            System.out.println("это образ мышления!");
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                Thread.currentThread().interrupt();
-            }
-        }
-    }
-}
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+</div>
+
+###
+
+<h3>📂 Мои проекты</h3>
+
+🚧 Раздел в разработке 🚧  
+*Скоро здесь появятся мои работы*
+
+###
+
+<h3>🧪 Тестовые задания</h3>
+
+🔜 Буду добавлять по мере выполнения

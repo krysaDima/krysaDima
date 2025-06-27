@@ -53,6 +53,12 @@ Backend-разработчик с фокусом на Java-экосистему.
 
 ###
 
+<div align="center">
+  <img src="https://github.com/krysaDima/krysaDima/blob/main/github-snake.svg" alt="Snake animation" />
+</div>
+
+###
+
 <h3>📂 Мои проекты</h3>
 
 🚧 Раздел в разработке 🚧  

@@ -83,4 +83,6 @@ Java-разработчик с 2+ годами практики, создающ�
 
 [![Performance Lab Task](https://img.shields.io/badge/📋_Performance_Lab_Task-2088FF?style=for-the-badge)](https://github.com/krysaDima/PerformanceLab)
 
+[![Wallet Service Task](https://img.shields.io/badge/💳_Wallet_Service_Task-2088FF?style=for-the-badge)](https://github.com/krysaDima/wallet-service)
+
 *Другие тестовые задания в процессе выполнения...*
